@@ -1,0 +1,18 @@
+# Build Outputs & Binary Files
+*.exe
+*.obj
+*.o
+*.cuda.o
+*.exp
+*.lib
+*.pyd
+
+# Python Cache & Extensions
+__pycache__/
+*.pyc
+.torch_extensions/
+
+# VS Code & Environment
+.vscode/
+.idea/
+*.log
